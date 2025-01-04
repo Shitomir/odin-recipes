@@ -1,0 +1,68 @@
+* {
+  font-family: "Georgia", sans-serif;
+  background-color: rgb(41, 41, 41);
+  color: white;
+}
+
+.heading,
+.subheading {
+  color: rgb(139, 30, 30);
+}
+
+.subheading {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.heading {
+  text-align: center;
+  font-weight: 800;
+  font-size: 52px;
+  text-decoration: underline;
+  padding-top: 1cm;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 36px;
+  color: white;
+}
+
+.back-link {
+  text-decoration: none;
+  font-size: 36px;
+  color: rgb(194, 194, 78);
+  background-color: rgb(20, 20, 20);
+}
+
+.main-list {
+  list-style: none;
+  text-align: center;
+  line-height: 2;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1cm;
+}
+
+.ul,
+.ol {
+  line-height: 1.5;
+}
+
+.ol {
+  padding-bottom: 2cm;
+}
+
+.footer {
+  text-align: center;
+  background-color: rgb(20, 20, 20);
+}
+
+.subheading2 {
+  font-size: 12px;
+  text-decoration: underline;
+}
